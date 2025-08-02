@@ -51,8 +51,8 @@ A modern Android sliding puzzle game application with beautiful design and smoot
 ### Repository Cloning
 
 ```bash
-git clone https://github.com/yourusername/sliding-puzzle-android.git
-cd sliding-puzzle-android
+git clone https://github.com/MarynaRina/sliding_puzzle.git
+cd sliding_puzzle
 ```
 
 ### Build and Run
